@@ -25,9 +25,9 @@ Tech Stack
 * 
 AI Models:
 
-Gemma-3-4B: For generating personalized food recommendations
-Grok API: For cooking instructions and recipes
-Unsloth.ai: For efficient fine-tuning and optimization
+Gemma-3-4B: For generating personalized food recommendations<br>
+Grok API: For cooking instructions and recipes<br>
+Unsloth.ai: For efficient fine-tuning and optimization<br>
 
 
 * 
