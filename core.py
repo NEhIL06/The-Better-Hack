@@ -15,8 +15,8 @@ import torch
 # Load environment variables from .env file
 load_dotenv()
 LLM = "gemini-2.0-flash-exp"
-subscription_key = "731bcfac-aef2-4541-88ee-1dc114b017a4"
-xai_api_key = "AIzaSyA02JdZFZ3Xjj26ThJhhJQ7anhrbrI66h8"
+subscription_key = "Key"
+xai_api_key = "api"
 sarvamurl = "https://api.sarvam.ai/text-to-speech"
 sarvamheaders = {
     "accept": "application/json",
@@ -30,7 +30,7 @@ LLMclient = OpenAI(
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 Nclient = OpenAI(
-    api_key="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",
+    api_key="api",
     base_url="https://integrate.api.nvidia.com/v1"
 )
 
