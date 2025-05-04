@@ -4,7 +4,7 @@ import numpy as np
 
 # Function to create a connection to SingleStoreDB
 def create_connection():
-    return s2.connect("pavan-1799f:9us;Roy^sn)W~C4E2GU4i8*@svc-3482219c-a389-4079-b18b-d50662524e8a-shared-dml.aws-virginia-6.svc.singlestore.com:3333/db_pavan_b24bc")
+    return s2.connect("string")
 
 
 # Insert embeddings into SingleStoreDB
