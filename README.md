@@ -1,4 +1,4 @@
-FoodFinder: AI-Powered Food Recommendation and Ordering System
+Jarvis For Food: Simple, direct, and implies a smart food assistant.
 
 A smart food recommendation system that suggests dishes based on user preferences, provides cooking instructions, and facilitates food ordering - all powered by AI.
 Problem Statement
@@ -27,7 +27,7 @@ AI Models:
 
 Gemma-3-4B: For generating personalized food recommendations<br>
 Grok API: For cooking instructions and recipes<br>
-Unsloth.ai: For efficient fine-tuning and optimization<br>
+Unsloth.ai: For efficient fine-tuning and optimization
 
 
 * 
