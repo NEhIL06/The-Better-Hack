@@ -25,7 +25,7 @@ Tech Stack
 * 
 AI Models:
 
-Qwen 2.5: For generating personalized food recommendations
+Gemma-3-4B: For generating personalized food recommendations
 Grok API: For cooking instructions and recipes
 Unsloth.ai: For efficient fine-tuning and optimization
 
@@ -83,10 +83,10 @@ cd foodfinder
 pip install -r requirements.txt
 Environment Variables
 Create a .env file with the following variables:
-LOCATIONIQ_API_KEY=your_locationiq_api_key
-TWILIO_ACCOUNT_SID=your_twilio_account_sid
-TWILIO_AUTH_TOKEN=your_twilio_auth_token
-TWILIO_PHONE_NUMBER=your_twilio_phone_number
+LOCATIONIQ_API_KEY=your_locationiq_api_key<br>
+TWILIO_ACCOUNT_SID=your_twilio_account_sid<br>
+TWILIO_AUTH_TOKEN=your_twilio_auth_token<br>
+TWILIO_PHONE_NUMBER=your_twilio_phone_number<br>
 GROK_API_KEY=your_grok_api_key
 
 Running the Application
